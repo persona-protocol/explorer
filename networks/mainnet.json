@@ -1,0 +1,19 @@
+{
+  "title": "Persona Explorer",
+  "server": "http://88.99.13.82:4103/api/v2",
+  "alias": "Main",
+  "activeDelegates": 51,
+  "rewardOffset": 151200,
+  "currencies": {
+  },
+  "knownWallets": {
+    "PMg2yZDrEPtBEe3R2RwBxaVY2PMTxjapQR": "Genesis"
+  },
+  "defaults": {
+    "token": "PRSN",
+    "symbol": "PRSN",
+    "currency": null,
+    "priceChart": false,
+    "priceChartPeriod": "day"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Testnet Explorer",
+  "server": "https://testnet-explorer.persona.im:4443/api",
+  "alias": "Testnet",
+  "activeDelegates": 51,
+  "rewardOffset": 151200,
+  "currencies": [],
+  "knownWallets": {},
+  "defaults": {
+    "token": "TPRSN",
+    "symbol": "TPRSN",
+    "currency": null,
+    "priceChart": false
+  }
+}
